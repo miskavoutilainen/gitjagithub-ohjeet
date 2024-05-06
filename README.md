@@ -18,7 +18,7 @@ GitHub tarjoaa paikan Git-versionhallintaa käyttäville ohjelmakehitysprojektei
 1. Lisätään luodut tiedostot Git indeksiin: `git add tiedostonnimi` tai `git add .` <- lisää kaikki tiedostot indeksiin
 2. Luodaan commit lisäyksistä: `git commit -m "Tähän tietoja lisäyksistä/muutoksissa"`
 
-## Git tilan ja logi
+## Git:n tila ja logi
 - Git tilan voi tarkistaa näin: `git status`
 - Listan commiteista näkee komennolla: `git log`, mikäli haluaa selkeämmän listauksen: `git log --oneline` 
 
